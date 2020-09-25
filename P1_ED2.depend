@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552330124 source:c:\users\jonathan\documents\megasync\universidad huelva\asignaturas\estructura de datos 2\practicas\practica1\p1_ed2\src\tadmulticonjunto.cpp
+	"TADMulticonjunto.h"
+
+1552331041 c:\users\jonathan\documents\megasync\universidad huelva\asignaturas\estructura de datos 2\practicas\practica1\p1_ed2\include\tadmulticonjunto.h
+
+1552330977 source:c:\users\jonathan\documents\megasync\universidad huelva\asignaturas\estructura de datos 2\practicas\practica1\p1_ed2\main.cpp
+	<iostream>
+	<TADMulticonjunto.h>
+
